@@ -65,4 +65,4 @@ In an e-commerce platform, the software is organized into key modules that manag
 	13.	Reviews and Ratings – Manages customer feedback and product ratings.
 	14.	Security – Ensures data protection, fraud detection, and compliance.
 
-Each of these modules plays a crucial role in ensuring a seamless shopping experience for both the customer and the business.
+Each of these modules plays a crucial role in ensuring a seamless shopping experience for both the customer and the business..
