@@ -68,5 +68,5 @@ In an e-commerce platform, the software is organized into key modules that manag
 <<<<<<< HEAD
 Each of these modules plays a crucial role in ensuring a seamless shopping experience for both the customer and the business..
 =======
-Each of these modules plays a crucial role in ensuring a seamless shopping experience for both the customer and the business..
+Each of these modules plays a crucial role in ensuring a seamless shopping experience for both the customer and the business.....
 >>>>>>> cb8154ab43dc5f2f23e115f009cd32ebded11fc0
