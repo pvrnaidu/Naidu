@@ -1,0 +1,68 @@
+Types of E-commerce:
+
+	1.	Business-to-Business (B2B): Refers to transactions between businesses, such as a manufacturer selling products to a wholesaler or retailer.
+	2.	Business-to-Consumer (B2C): Involves businesses selling directly to the end customer, commonly seen in online retail.
+	3.	Business-to-Government (B2G): This type involves businesses providing goods or services to governments, like supplying IT infrastructure.
+	4.	Consumer-to-Business (C2B): Consumers offer products or services to businesses, such as influencers promoting brands or freelancers offering their expertise.
+	5.	Consumer-to-Consumer (C2C): Transactions occur between consumers, typically on platforms like eBay, Craigslist, or Facebook Marketplace.
+
+Content Management Systems (CMS):
+
+A CMS is a software application that allows users to create, manage, and publish digital content. For an e-commerce platform, it helps manage product listings, blogs, customer reviews, and landing pages. Popular CMS platforms include WordPress, Shopify, and Magento, which streamline the process of building and maintaining online stores without requiring in-depth technical knowledge.
+
+E-commerce Terminology:
+
+	1.	Landing Page: Often the homepage or a dedicated page for marketing campaigns.
+	2.	Find Store: Refers to a store locator page where users can find physical store locations.
+	3.	Sign In: The user login or account management section.
+	4.	Main Navigation (GNAV): Global navigation that helps users move between key sections of the site.
+	5.	Sub Navigation (Sub Nav): Secondary navigation used to access subcategories.
+	6.	Product Listing Page (PLP): Displays multiple products, offering filters, sorting, and quick views.
+	7.	Product Details Page (PDP): Displays detailed information about a single product, including images, specifications, reviews, and purchase options.
+	8.	Call to Action (CTA): A button or link encouraging user action, like “Add to Cart.”
+
+E-commerce Page Functionalities:
+
+	1.	Product Listing Page (PLP): Offers features like breadcrumbs, filters, sorting, product images, and product name clicks. Each product card typically shows the image, name, price, and an option to add the item to the cart.
+	2.	Product Details Page (PDP): Displays breadcrumbs, quantity selectors, size and shade selection, expandable accordions for product information, reviews section, and cross-sell recommendations.
+
+Offers Types:
+
+	1.	Flat Discount: A fixed discount amount (e.g., $10 off).
+	2.	Percentage Discount: A percentage reduction on the total price (e.g., 10% off).
+	3.	SKU Drop-ins: Specific products offered at a discounted rate or for free when purchasing other items.
+	4.	Shipping Discounts: Free or discounted shipping based on cart total or promotions.
+	5.	Employee Discounts: Special discounts available only to employees.
+	6.	GWP/PWP: “Gift with Purchase” or “Purchase with Purchase” deals, where customers get a bonus product for free or at a discount when buying a qualifying item.
+
+Delivery Methods:
+
+	1.	Standard Delivery: Normal shipping with typical delivery times.
+	2.	Saturday Delivery: Guarantees delivery on a Saturday.
+	3.	Next-day Delivery: Ensures the product is delivered the next day after ordering.
+	4.	Named Day Delivery: Allows customers to choose a specific delivery day.
+
+Payment Methods:
+
+	1.	GC+CC: Gift card plus credit card combination for payment.
+	2.	Credit Card (CC): Standard credit card payments.
+	3.	PayPal: An online payment system that supports money transfers securely.
+
+In an e-commerce platform, the software is organized into key modules that manage different aspects of the business. Here’s a brief overview:
+
+	1.	Product Management – Handles product listings, categories, descriptions, and inventory.
+	2.	Customer Management – Manages user profiles, order history, and wish lists.
+	3.	Order Management – Manages the shopping cart, checkout, order processing, and tracking.
+	4.	Payment Gateway Integration – Supports multiple payment methods like cards, wallets, and net banking.
+	5.	Shipping and Delivery – Tracks deliveries, shipping options, and integrates with logistics providers.
+	6.	Inventory Management – Manages stock levels and product variants.
+	7.	Promotions and Discounts – Handles discounts, coupons, and loyalty programs.
+	8.	CMS (Content Management System) – Manages static content like blogs, banners, and images.
+	9.	Analytics and Reporting – Provides sales reports, customer insights, and performance tracking.
+	10.	Customer Support – Offers chatbots, ticketing systems, and FAQs for customer service.
+	11.	Search and Navigation – Enables advanced search, filtering, and easy product navigation.
+	12.	Marketing and SEO – Integrates with email marketing, SEO tools, and social media.
+	13.	Reviews and Ratings – Manages customer feedback and product ratings.
+	14.	Security – Ensures data protection, fraud detection, and compliance.
+
+Each of these modules plays a crucial role in ensuring a seamless shopping experience for both the customer and the business.
